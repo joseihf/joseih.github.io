@@ -5,7 +5,7 @@ locale: es_ES
 description: Educación, informática, programación, robótica y todo lo que se me ocurra :-)
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://jihuertas.es #http://localhost:4000
 
 # Jekyll configuration
 
