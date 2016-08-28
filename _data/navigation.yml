@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Sobre mí
+  url: /about/
+
+- title: Blog
+  url: /blog/
+
+- title: Proyectos
+  url: /proyectos/
+
+- title: Buscar
+  url: /search/
