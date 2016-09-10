@@ -1,1 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-08-28T17:25:45+02:00</updated><id>http://localhost:4000/</id><title>José Ignacio Huertas</title><subtitle>Educación, informática, programación, robótica y todo lo que se me ocurra :-)</subtitle><entry><title>Comenzamos</title><link href="http://localhost:4000/blog/Comenzamos/" rel="alternate" type="text/html" title="Comenzamos" /><published>2016-08-28T00:00:00+02:00</published><updated>2016-08-28T00:00:00+02:00</updated><id>http://localhost:4000/blog/Comenzamos</id><content type="html" xml:base="http://localhost:4000/blog/Comenzamos/">&lt;p&gt;Pues eso mismo, comenzamos una nueva Web personal con este blog al que seguro le podré dedicar muy, pero que muy poco tiempo :-( Y no por falta de ganas, sino por la dichosa manía de que todos los días tengan solo 24 horas.&lt;/p&gt;</content><author><name>ji</name></author><summary>Pues eso mismo, comenzamos una nueva Web personal con este blog al que seguro le podré dedicar muy, pero que muy poco tiempo :-( Y no por falta de ganas, sino por la dichosa manía de que todos los días tengan solo 24 horas.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;nil}" /></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-09-10T21:37:30+02:00</updated><id>http://localhost:4000/</id><title>José Ignacio Huertas</title><subtitle>Educación e informática, principalmente.</subtitle><entry><title>Por qué recomiendo Wordpress</title><link href="http://localhost:4000/blog/por-que-recomiendo-wordpress/" rel="alternate" type="text/html" title="Por qué recomiendo Wordpress" /><published>2016-09-10T00:00:00+02:00</published><updated>2016-09-10T00:00:00+02:00</updated><id>http://localhost:4000/blog/por-que-recomiendo-wordpress</id><content type="html" xml:base="http://localhost:4000/blog/por-que-recomiendo-wordpress/">&lt;p&gt;Si aún no conoces Wordpress, es hora de descubrir algo nuevo. Bajo este nombre se esconde un software genial con el que podemos crearnos nuestro propio sitio web en muy poco tiempo y de una forma sencilla. Reune ciertas características que hacen que hoy en día sea la alternativa número uno a la hora de elegir un sistema gestor de contenidos (CMS) para crear nuestras webs.&lt;/p&gt;
+
+&lt;p&gt;Tanto si quieres crear un simple blog, una landing page para una empresa o una tienda virtual, Wordpress te permite realizarlo cómoda y rápidamente.&lt;/p&gt;
+
+&lt;h1 id=&quot;quin-usa-wordpress&quot;&gt;¿Quién usa Wordpress?&lt;/h1&gt;
+
+&lt;p&gt;No es mi intención avivar el debate de qué gestor de contenidos es el mejor hoy día. Además, es difícil saber con exactitud qué sistema es el más utilizado actualmente. Sin embargo, podemos usar Google Trends para ver la tendencia en las búsquedas de Google de tres CMS concretos y compararlos.&lt;/p&gt;
+
+&lt;p&gt;Aquí te dejo los resultados de &lt;a href=&quot;https://www.google.com/trends/explore?date=all&amp;amp;q=wordpress,joomla,drupal&quot;&gt;esta búsqueda&lt;/a&gt; para que juzgues por ti mismo:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/blog/GoogleTrendsCMS.jpg&quot; alt=&quot;Google Trends CMS&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;los-aspectos-que-ms-me-gustan-de-wordpress&quot;&gt;Los aspectos que más me gustan de Wordpress&lt;/h1&gt;
+
+&lt;p&gt;Son ya muchos años construyendo webs y trabajando con esta herramienta. ¿Por qué me gusta tanto? Aquí te enumero algunas de las características que personalmente creo que hacen de Wordpress una buena elección.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;La &lt;strong&gt;sencillez&lt;/strong&gt; a la hora de crear y administrar nuevas páginas o entradas en nuestro blog. Tanto si eres un profesional de la informática como si estás dando tus primeros pasos, con Wordpress podrás crear sitios impresionantes.&lt;/li&gt;
+  &lt;li&gt;Una gestión simplificada de los &lt;strong&gt;elementos multimedia&lt;/strong&gt; que queramos incluir. Añade, edita o borra imágenes para incluirlas en tu web con solo arrastrar y soltar.&lt;/li&gt;
+  &lt;li&gt;Te permite personalizar al máximo la apariencia del sitio. A través de &lt;strong&gt;temas de apariencia&lt;/strong&gt;, puedes cambiar el aspecto de tu web en unos segundos. Más adelante, en otra entrada, hablaremos de la importancia de elegir un buen tema de apariencia.&lt;/li&gt;
+  &lt;li&gt;Se adapta para que puedas construir cualquier web que necesites. Para ello Wordpress hace uso de &lt;strong&gt;plugins&lt;/strong&gt;, que permiten añadir nuevas funcionalidades a nuestro sofware original. Con ellos, puedes incluso convertir tu sitio web en una tienda virtual o una red social.&lt;/li&gt;
+  &lt;li&gt;Funciona muy bien y está en constante crecimiento, añadiendo mejoras cada poco tiempo.&lt;/li&gt;
+  &lt;li&gt;Por último, Wordpress es &lt;strong&gt;software libre&lt;/strong&gt;, por lo que podrás acceder, modificar y compartir el código fuente del proyecto.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;ms-cosas-de-este-sistema&quot;&gt;Más cosas de este sistema&lt;/h1&gt;
+
+&lt;p&gt;Wordpress tiene dos partes diferenciadas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Front-End&lt;/strong&gt; o parte pública del sitio web. O dicho de otra forma, lo que todo el mundo ve cuando accede a tu web.
+&lt;img src=&quot;../../images/blog/programamos.jpg&quot; alt=&quot;FrontEnd Wordpress&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Back-End&lt;/strong&gt; o parte de administración de Wordpress. A este apartado solo se puede acceder tras haberse logueado con un usuario con privilegios. Desde este podemos administrar toda nuestra web: crear nuevas entradas, páginas, usuarios, etc.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/blog/WordpressBackEnd.jpg&quot; alt=&quot;BackEnd Wordpress&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Y ¿qué podemos administrar? muchas cosas. Entre ellas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Los &lt;strong&gt;usuarios&lt;/strong&gt;. Puedes dar de alta a distintos usuarios para que puedan acceder al apartado de administración de tu sitio. Los permisos que tendrán dichos usuarios dependerán del rol que les asignes.&lt;/li&gt;
+  &lt;li&gt;Crear &lt;strong&gt;páginas (pages)&lt;/strong&gt; o &lt;strong&gt;entradas (posts)&lt;/strong&gt;. Aunque son parecidos no son lo mismo. Las &lt;strong&gt;páginas&lt;/strong&gt; se usan para crear diferentes tipos de contenido estático, como por ejemplo: una página de contacto, Acerca de, etc. Las &lt;strong&gt;entradas&lt;/strong&gt; son cada una de las publicaciones que van a componer nuestro blog.&lt;/li&gt;
+  &lt;li&gt;Gestionar el contenido multimedia, a través del apartado &lt;strong&gt;“Medios”&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Personalizar la &lt;strong&gt;apariencia&lt;/strong&gt; para que el sitio esté a tu gusto.&lt;/li&gt;
+  &lt;li&gt;Añadir nuevas funcionalidades desde &lt;strong&gt;“Plugins”&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;si-me-gusta-tanto-wordpress-por-qu-he-montado-este-blog-con-jekyll&quot;&gt;Si me gusta tanto Wordpress, ¿por qué he montado este blog con Jekyll?&lt;/h1&gt;
+
+&lt;p&gt;Cada sitio que quieras crear tiene sus propias características y necesidades. Sí, me gusta Wordpress, pero también existen otras alternativas muy interesantes que te permiten crear sitios con un resultado muy bueno. En el caso de este blog he optado por &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;&lt;strong&gt;Jekyll&lt;/strong&gt;&lt;/a&gt; por tres razones:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Es la tecnología que nos propone GitHub para crear sitios y nos permite almacenarlos directamente en nuestro respositorio. Por tanto nos ahorramos la contratación de un hosting.&lt;/li&gt;
+  &lt;li&gt;Si estás familiarizado con un sistema de control de versiones como GitHub, tener tu blog ahí te proporciona muchas ventajas, como ver qué cambios has ido realizando en el código que hace que tu blog funcione.&lt;/li&gt;
+  &lt;li&gt;El resultado es impresionante. Jekyll genera y almacena las páginas html, por lo que el acceso a la web es muy rápido.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Pero prefiero dejar Jekyll para otro post, en el que analicemos sus características y veamos cómo funciona.&lt;/p&gt;
+
+&lt;p&gt;En resumen, si no eres un usuario avanzado, sin duda te recomiendo iniciarte con Wordpress.&lt;/p&gt;</content><author><name>ji</name></author><category term="Wordpress" /><summary>Si aún no conoces Wordpress, es hora de descubrir algo nuevo. Bajo este nombre se esconde un software genial con el que podemos crearnos nuestro propio sitio web en muy poco tiempo y de una forma sencilla. Reune ciertas características que hacen que hoy en día sea la alternativa número uno a la hora de elegir un sistema gestor de contenidos (CMS) para crear nuestras webs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;nil}" /></entry><entry><title>Comenzamos</title><link href="http://localhost:4000/blog/Comenzamos/" rel="alternate" type="text/html" title="Comenzamos" /><published>2016-08-28T00:00:00+02:00</published><updated>2016-08-28T00:00:00+02:00</updated><id>http://localhost:4000/blog/Comenzamos</id><content type="html" xml:base="http://localhost:4000/blog/Comenzamos/">&lt;p&gt;Pues eso mismo, comenzamos una nueva Web personal con este blog al que seguro le podré dedicar muy, pero que muy poco tiempo :-( Y no por falta de ganas, sino por la dichosa manía de que todos los días tengan solo 24 horas.&lt;/p&gt;</content><author><name>ji</name></author><summary>Pues eso mismo, comenzamos una nueva Web personal con este blog al que seguro le podré dedicar muy, pero que muy poco tiempo :-( Y no por falta de ganas, sino por la dichosa manía de que todos los días tengan solo 24 horas.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000{&quot;feature&quot;=&gt;nil}" /></entry></feed>

@@ -17,7 +17,7 @@ Me considero una persona inquieta a la que le gustan los nuevos retos. Este aspe
 
 Sin embargo, el mayor reto en el que me encuentro ahora mismo es la **dirección de [Programamos](http://programamos.es)**, una asociación sin ánimo de lucro que promueve el desarrollo del pensamiento computacional desde edades tempranas, y en todas las etapas educativas, a través de desarrollo de videojuegos y apps para móviles.
 
-Todo ello me ha llevado a especializarme y tener una amplia experiencia en el uso de la **programación informática como herramienta educativa**. Gracias a ello he intervenido en la **formación a docentes** para el uso de la programación con Scratch en el aula, tanto para el Ministerio de Educación como para diferentes comunidades autónomas como Navarra, Galicia, La Rioja o Andalucía y he participado como **ponente** en distintas charlas, congresos y eventos.
+Todo ello me ha llevado a especializarme y tener una amplia experiencia en el uso de la **programación informática como herramienta educativa**. Gracias a ello he representado a España como uno de los embajadores de la [Semana Europea de la Programación](http://codeweek.eu); he intervenido en la **formación a docentes** para el uso de la programación con Scratch en el aula, tanto para el Ministerio de Educación como para diferentes comunidades autónomas como Navarra, Galicia, La Rioja o Andalucía y he participado como **ponente** en distintas charlas, congresos y eventos.
 
 
 ## Actualmente me dedico a:
