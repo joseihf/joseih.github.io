@@ -5,7 +5,7 @@ locale: es_ES
 description: Educación e informática, principalmente.
 logo: site-logo.png
 search: true
-url: http://jihuertas.es #http://localhost:4000
+url: http://localhost:4000 #http://jihuertas.es #
 
 # Jekyll configuration
 

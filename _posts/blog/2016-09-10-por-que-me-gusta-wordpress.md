@@ -8,7 +8,8 @@ excerpt:
 tags: [Wordpress]
 share: true
 image:
-  feature:
+    feature: wordpress.jpg
+    thumb: wordpress-thumb.jpg
 date: 2016-09-10
 #modified: 2016-08-28
 comments: true
