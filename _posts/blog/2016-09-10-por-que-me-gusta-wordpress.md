@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Por qué recomiendo Wordpress"
+title: "Por qué me gusta Wordpress"
 modified:
 author: ji
 categories: blog
