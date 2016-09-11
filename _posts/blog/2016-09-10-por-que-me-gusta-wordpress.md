@@ -10,7 +10,9 @@ share: true
 image:
     feature: wordpress.jpg
     thumb: wordpress-thumb.jpg
-date: 2016-09-10
+    credit: Pixabay
+    creditlink: https://pixabay.com/es/
+date: 2016-09-07
 #modified: 2016-08-28
 comments: true
 ---

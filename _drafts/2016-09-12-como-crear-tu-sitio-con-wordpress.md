@@ -8,8 +8,11 @@ excerpt:
 tags: [Wordpress]
 share: true
 image:
-  feature:
-date: 2016-09-12
+    feature: wordpress.jpg
+    thumb: wordpress-thumb.jpg
+    credit: Pixabay
+    creditlink: https://pixabay.com/es/
+date: 2016-09-13
 #modified: 2016-08-28
 comments: true
 ---

@@ -1,0 +1,15 @@
+<p>Cuando usas un Wordpress con distintos usuarios y quieres permitir a estos para que puedan crear entradas en el blog te puedes encontrar con un problema. El rol “colaborador”, quizás el que mejor se ajusta a esta situación, no permite que estos puedan subir las imágenes. Para solucionar esto, tan solo tendremos que añadir algo de código a nuestro Wordpress.</p>
+
+<p>Lo primero que hay que hacer es editar el archivo functions.php de tu tema de apariencia. Para ello, lo más sencillo es acceder a “Apariencia - editor” de la parte de administración de nuestro Wordpress y seleccionar “functions.php”. A continuación, añade el siguiente código:</p>
+
+<div class="language-php highlighter-rouge"><pre class="highlight"><code>if ( current_user_can('contributor') <span class="err">&amp;&amp;</span> !current_user_can('upload_files') )
+     add_action('admin_init', 'allow_contributor_uploads');
+     
+     function allow_contributor_uploads() {
+          $contributor = get_role('contributor');
+          $contributor-&gt;add_cap('upload_files');
+     }
+</code></pre>
+</div>
+
+<p>Y eso es todo. A partir de ahora tus usuarios con el rol <strong>Colaboradores</strong> podrán subir las imágenes sin problema.</p>
