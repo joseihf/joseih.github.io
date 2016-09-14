@@ -12,7 +12,7 @@ image:
     thumb: wordpress-thumb.jpg
     credit: Pixabay
     creditlink: https://pixabay.com/es/
-date: 2016-09-15
+date: 2016-09-14
 #modified: 2016-08-28
 comments: true
 ---
